@@ -1,6 +1,5 @@
 # Voting decentralized app mock
-
-This Project is a quickstart taking aproach of the truffle boxes to build your own dapp with truffle suite and metamask.
+Let voters cast their votes for the Chairman’s proposal with Smart Contracts, truffle suite and metamask.
 
 
 ### Tech
